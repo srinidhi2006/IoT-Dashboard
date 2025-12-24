@@ -34,9 +34,9 @@ streamlit run app.py<br>
 **URL:** http://localhost:8501
 
 ##  Files
-├── app.py # Main dashboard (single file!)
-├── requirements.txt # Dependencies
-└── README.md # This file
+├── app.py # Main dashboard (single file!)<br>
+├── requirements.txt # Dependencies<br>
+└── README.md # This file<br>
 
 ##  Live Features
 
@@ -71,13 +71,13 @@ Push to GitHub<br>
 share.streamlit.io → Deploy<br>
 
 ## 📦 Requirements
-streamlit==1.38.0
-plotly==5.24.1
-xgboost==2.1.1
-pandas==2.2.3
-numpy==2.1.1
-joblib==1.4.2
-scikit-learn==1.5.2
+streamlit==1.38.0<br>
+plotly==5.24.1<br>
+xgboost==2.1.1<br>
+pandas==2.2.3<br>
+numpy==2.1.1<br>
+joblib==1.4.2<br>
+scikit-learn==1.5.2<br>
 
 ## 🔍 Technical Details
 
