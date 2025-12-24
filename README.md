@@ -25,12 +25,12 @@ Real-time dashboard for IoT network intrusion detection using XGBoost with **4 n
 ##  Quick Start
 
 ### 1. Clone & Install
-git clone 
-cd iot-ids-dashboard
-pip install -r requirements.txt
+git clone https://github.com/srinidhi2006/IoT-Dashboard<br>
+cd iot-ids-dashboard<br>
+pip install -r requirements.txt<br>
 
 ### 2. Run Dashboard
-streamlit run app.py
+streamlit run app.py<br>
 **URL:** http://localhost:8501
 
 ##  Files
@@ -50,25 +50,25 @@ streamlit run app.py
 ##  Usage Examples
 
 ### Auto Mode (Live Traffic)
-Enable "Auto Predict"
-Watch 30% attack simulation
-Red dots = BLOCKED attacks!
+Enable "Auto Predict"<br>
+Watch 30% attack simulation<br>
+Red dots = BLOCKED attacks!<br>
 
 ## 🔧 Feature Importance
 
-Proto_Entropy → 57.3% 
-Flow_Byts/s → 15.0%
-Flow_Duration → 12.0%
-Energy_Drain → 2.1%
-Temporal_Drift → 2.1%
-Sleep_Anomaly → 0.2%
+Proto_Entropy → 57.3% <br>
+Flow_Byts/s → 15.0%<br>
+Flow_Duration → 12.0%<br>
+Energy_Drain → 2.1%<br>
+Temporal_Drift → 2.1%<br>
+Sleep_Anomaly → 0.2%<br>
 
 ## 🌐 Deployment Options
 
 ### Streamlit Cloud (FREE)
 
-Push to GitHub
-share.streamlit.io → Deploy
+Push to GitHub<br>
+share.streamlit.io → Deploy<br>
 
 ## 📦 Requirements
 streamlit==1.38.0
@@ -88,10 +88,10 @@ scikit-learn==1.5.2
 **Memory:** <500MB RAM  
 
 ## 🤝 Contributing
-Fork repository
-Create feature branch
-Commit changes
-Push 
+Fork repository<br>
+Create feature branch<br>
+Commit changes<br>
+Push <br>
 
 
 ## 📄 License
